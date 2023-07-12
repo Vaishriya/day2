@@ -1,0 +1,36 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0%;
+}
+body{
+     text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+img{
+    text-align: center;
+}
+#black{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+#green{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+}
+#blue{
+    background-color: rgb(0, 179, 255);
+    color: white;
+    font-size: 30px;
+}
+#yellow{
+    background-color: rgb(255, 0, 98);
+    color: white;
+    font-size: 30px;
+}
